@@ -18,6 +18,11 @@ To anlayze the data and predict the prices of used cars.
 #### -Predicted the results.
 #### -Evaluated results using Regression Metrics.
 
+## Images
+<img src ="https://user-images.githubusercontent.com/95271399/155945728-4ce591a6-957b-4b41-a06f-e8bcc9a37093.PNG">
+<img src ="https://user-images.githubusercontent.com/95271399/155945853-e7423545-95a1-4228-a61d-527c7c91b188.PNG">
+<img src ="https://user-images.githubusercontent.com/95271399/155945903-b16af80c-a4b3-476e-8ec7-58673bbd9ae7.PNG">
+<img src ="https://user-images.githubusercontent.com/95271399/155945955-8f77fd6f-baa9-4eb1-8454-9d34011f232a.PNG">
 
 ## Libraries used
 
