@@ -8,13 +8,13 @@ We trained our model with data of used cars which is collected from the Kaggle w
 To anlayze the data and predict the prices of used cars.
 
 ## Methodology
-Handled ouliers using flooring and capping method.
-Converted Categorical Features using One-Hot-Encoding
-Feature Scaling
-Data Visualization
-Trained model using Regression Model
-Predicted the results
-Evaluated results using Regression Metrics
+#### Handled ouliers using flooring and capping method.
+#### Converted Categorical Features using One-Hot-Encoding.
+#### Feature Scaling.
+#### Data Visualization.
+#### Trained model using Regression Model.
+#### Predicted the results.
+#### Evaluated results using Regression Metrics.
 
 ## Libraries used
 
@@ -28,5 +28,5 @@ Matplotlib.pylot and Seaborn
 LinearRegression, DecisionTreeRegressor and RandomForestRegressor
 
 ### Performance Metrics
-R2_score, mean _absolute_percentage_error(MAPE) and 
+R2_score, mean_absolute_percentage_error(MAPE) and 
 Root_mean_squared_error(RMSE)
