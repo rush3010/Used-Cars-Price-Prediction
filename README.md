@@ -8,12 +8,12 @@ We trained our model with data of used cars which is collected from the Kaggle w
 To anlayze the data and predict the prices of used cars.
 
 ## Methodology
-### EDA
+### > EDA
 #### -Handled outliers using flooring and capping method.
 #### -Converted Categorical Features using One-Hot-Encoding.
 #### -Feature Scaling.
 #### -Data Visualization.
-### Training and predicting
+### > Training and predicting
 #### -Trained model using Regression Model.
 #### -Predicted the results.
 #### -Evaluated results using Regression Metrics.
