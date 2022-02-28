@@ -7,6 +7,10 @@ We trained our model with data of used cars which is collected from the Kaggle w
 ## Objective
 To anlayze the data and predict the prices of used cars.
 
+## Methodology
+-Handled ouliers using flooring and capping method
+-Converted Categorical Features using One-Hot-Encoding
+
 
 ## Libraries used
 
