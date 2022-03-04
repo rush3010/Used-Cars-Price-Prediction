@@ -23,7 +23,7 @@ We trained our model with data of used cars which is collected from the Kaggle w
 ![image](https://user-images.githubusercontent.com/95271399/156746801-aca42f0f-da7d-4b47-a4c7-6b7d798ea3b7.png)
 <img src ="https://user-images.githubusercontent.com/95271399/156744672-388f9369-62be-4aca-84d3-89897afc637d.PNG">
 <img src ="https://user-images.githubusercontent.com/95271399/156744676-0c8c48fe-fc5d-4f08-8d64-c8fd8e8acf59.PNG">
-<img src ="https://user-images.githubusercontent.com/95271399/156744664-eb679ece-f7b8-4ce7-a4ae-82d29a56f524.PNG">
+![image](https://user-images.githubusercontent.com/95271399/156748485-307a5f94-790e-4475-9922-df01e84679af.png)
 
 ## Libraries used
 
