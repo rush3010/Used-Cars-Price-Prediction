@@ -6,7 +6,7 @@ We trained our model with data of used cars which is collected from the Kaggle w
 
 ## Objectives
 #### -To proposed a predictive model using various regression model on our used car dataset to predict the prices of cars.
-#### -To analyze the data for processing
+#### -To analyze the data for training and testing.
 
 ## Methodology
 ### > EDA
