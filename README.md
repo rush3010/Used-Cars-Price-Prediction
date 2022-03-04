@@ -33,7 +33,7 @@ Pandas, NumPy
 Matplotlib.pylot and Seaborn
 
 ### Algorithms
-LinearRegression, DecisionTreeRegressor and RandomForestRegressor
+LinearRegression, DecisionTreeRegressor, RandomForestRegressor , XGBoostRegressor and many more
 
 ### Performance Metrics
 R2_score, mean_absolute_percentage_error(MAPE) and Root_mean_squared_error(RMSE)
