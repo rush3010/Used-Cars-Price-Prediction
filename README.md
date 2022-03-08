@@ -25,6 +25,9 @@ We trained our model with data of used cars which is collected from the Kaggle w
 <img src ="https://user-images.githubusercontent.com/95271399/156744676-0c8c48fe-fc5d-4f08-8d64-c8fd8e8acf59.PNG">
 ![image](https://user-images.githubusercontent.com/95271399/156748485-307a5f94-790e-4475-9922-df01e84679af.png)
 
+## Dashboard
+![Dashboardimage](https://user-images.githubusercontent.com/95271399/157279987-9390bc2d-04d7-4b26-9767-e78388e53b75.PNG)
+
 ## Libraries used
 
 ### Data Cleaning
