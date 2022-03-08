@@ -4,8 +4,9 @@ In this project, I proposed a supervised machine
 learning model using various regression algorithm to predict the price of used cars.
 We trained our model with data of used cars which is collected from the Kaggle website.
 
-## Objective
-To anlayze the data and predict the prices of used cars.
+## Objectives
+#### -To proposed a predictive model using various regression model on our used car dataset to predict the prices of cars.
+#### -To analyze the data for training and testing.
 
 ## Methodology
 ### > EDA
@@ -19,10 +20,10 @@ To anlayze the data and predict the prices of used cars.
 #### -Evaluated results using Regression Metrics.
 
 ## Images
-<img src ="https://user-images.githubusercontent.com/95271399/155945728-4ce591a6-957b-4b41-a06f-e8bcc9a37093.PNG">
-<img src ="https://user-images.githubusercontent.com/95271399/155945853-e7423545-95a1-4228-a61d-527c7c91b188.PNG">
-<img src ="https://user-images.githubusercontent.com/95271399/155945903-b16af80c-a4b3-476e-8ec7-58673bbd9ae7.PNG">
-<img src ="https://user-images.githubusercontent.com/95271399/155945955-8f77fd6f-baa9-4eb1-8454-9d34011f232a.PNG">
+![image](https://user-images.githubusercontent.com/95271399/156746801-aca42f0f-da7d-4b47-a4c7-6b7d798ea3b7.png)
+<img src ="https://user-images.githubusercontent.com/95271399/156744672-388f9369-62be-4aca-84d3-89897afc637d.PNG">
+<img src ="https://user-images.githubusercontent.com/95271399/156744676-0c8c48fe-fc5d-4f08-8d64-c8fd8e8acf59.PNG">
+![image](https://user-images.githubusercontent.com/95271399/156748485-307a5f94-790e-4475-9922-df01e84679af.png)
 
 ## Libraries used
 
