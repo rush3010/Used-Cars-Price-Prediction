@@ -28,7 +28,6 @@ Visit the [GitHub Repository](https://github.com/rush3010/SmartPrice-Auto-AI-Pre
 ### Future Enhancements
 - Incorporating additional car features to improve prediction accuracy.
 - Expanding the model to include other machine learning techniques, such as ensemble learning.
-- Deploying the model as a web app for user-friendly interaction.
 
 ### Contact
 For questions, collaboration, or feedback, please reach out via [LinkedIn](https://www.linkedin.com/in/rushabh-nalawade-bb7966192) or [GitHub](https://github.com/rush3010).
