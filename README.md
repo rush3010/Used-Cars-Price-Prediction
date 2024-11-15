@@ -1,45 +1,35 @@
+# SmartPrice Auto: AI Predicts the Value of Pre-Owned Cars
 
-# Used Car Price Prediction
-In this project, I proposed a supervised machine
-learning model using various regression algorithm to predict the price of used cars.
-We trained our model with data of used cars which is collected from the Kaggle website.
+### Project Overview
+SmartPrice Auto is a machine learning project developed to predict the price of pre-owned cars based on key features such as make, model, age, mileage, and more. The primary objective of this project is to provide a robust predictive model that helps estimate used car prices, enhancing decision-making in the automotive market.
 
-## Objectives
-#### -To proposed a predictive model using various regression model on our used car dataset to predict the prices of cars.
-#### -To analyze the data for training and testing.
-#### -To design a Dashboard for our project.
+### Tech Stack
+- **Programming Language**: Python
+- **Libraries**: Scikit-Learn, Pandas, Matplotlib
+- **Algorithms**: Multiple regression models including Linear Regression, Decision Trees, and Random Forests
 
-## Methodology
-### > EDA
-#### -Handled outliers using flooring and capping method.
-#### -Converted Categorical Features using One-Hot-Encoding.
-#### -Feature Scaling.
-#### -Data Visualization.
-### > Training and predicting
-#### -Trained model using Regression Model.
-#### -Predicted the results.
-#### -Evaluated results using Regression Metrics.
+### Project Highlights
+- **Extensive Data Cleaning & EDA**: Ensured high-quality data by performing thorough data cleaning and exploratory data analysis (EDA), which included handling missing values, outliers, and data transformations.
+- **Model Training & Evaluation**: Implemented various regression algorithms and evaluated their performance using key metrics such as R-squared, Mean Absolute Error (MAE), and Root Mean Squared Error (RMSE).
+- **Algorithm Analysis**: Conducted a comparative analysis of the algorithms' strengths and weaknesses, leading to an informed selection of the best model for accurate price predictions.
+- **Real-World Application**: Demonstrated the practical application of machine learning in solving real-world problems related to the automotive market, providing insights into the factors that most significantly impact car pricing.
 
-## Images
-![image](https://user-images.githubusercontent.com/95271399/156746801-aca42f0f-da7d-4b47-a4c7-6b7d798ea3b7.png)
-<img src ="https://user-images.githubusercontent.com/95271399/156744672-388f9369-62be-4aca-84d3-89897afc637d.PNG">
-<img src ="https://user-images.githubusercontent.com/95271399/156744676-0c8c48fe-fc5d-4f08-8d64-c8fd8e8acf59.PNG">
-![image](https://user-images.githubusercontent.com/95271399/156748485-307a5f94-790e-4475-9922-df01e84679af.png)
+### Results
+After rigorous testing, the best-performing model was selected based on evaluation metrics, showcasing its ability to predict car prices with a high degree of accuracy. The insights gained from this analysis not only improved model performance but also provided a deeper understanding of the data.
 
-## Dashboard
-Designed a Dashboard using PowerBI.
-![Dashboardimage](https://user-images.githubusercontent.com/95271399/157279987-9390bc2d-04d7-4b26-9767-e78388e53b75.PNG)
+### Key Learnings
+- The importance of data preprocessing for model reliability.
+- How different regression models respond to various data features.
+- Using comparative analysis to select the optimal algorithm for specific predictive tasks.
 
-## Libraries used
+### How to Use
+Visit the [GitHub Repository](https://github.com/rush3010/SmartPrice-Auto-AI-Predicts-the-Value-of-Pre-Owned-Cars) for the complete code, data preprocessing steps, and model training scripts.
 
-### Data Cleaning
-Pandas, NumPy
+### Future Enhancements
+- Incorporating additional car features to improve prediction accuracy.
+- Expanding the model to include other machine learning techniques, such as ensemble learning.
+- Deploying the model as a web app for user-friendly interaction.
 
-### Data Visualization
-Matplotlib.pylot and Seaborn
+### Contact
+For questions, collaboration, or feedback, please reach out via [LinkedIn](https://www.linkedin.com/in/rushabh-nalawade-bb7966192) or [GitHub](https://github.com/rush3010).
 
-### Algorithms
-LinearRegression, DecisionTreeRegressor, RandomForestRegressor , XGBoostRegressor and many more.
-
-### Performance Metrics
-R2_score, mean_absolute_percentage_error(MAPE) and Root_mean_squared_error(RMSE)
